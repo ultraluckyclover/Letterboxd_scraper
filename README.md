@@ -1,4 +1,4 @@
-# Letterboxd_scraper
+# Letterboxd Scraper
 Program that takes your Letterboxd watchlist url and returns a random selection using Selenium. I utilize
 web scraping as a technique for acquiring data from any input Letterboxed watchlist.
 
